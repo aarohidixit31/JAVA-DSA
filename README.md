@@ -3,3 +3,5 @@ Welcome to my coding journey! This repository documents my progress as I dive de
 
 🌟 Why I Started
 As a passionate learner, I believe in building a strong foundation before mastering complex systems. Java is not only a versatile and powerful programming language but also a key to unlocking endless opportunities in software development.
+
+I am trying my best to complete DSA as soon as possible.
